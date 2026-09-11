@@ -1,0 +1,17 @@
+django
+django-cors-headers
+djangorestframework
+pymysql
+google-auth
+numpy
+pandas
+scikit-learn
+pdfplumber
+python-docx
+PyPDF2
+google-generativeai
+python-dotenv
+fpdf2
+gunicorn
+psycopg2-binary
+dj-database-url
