@@ -1,4 +1,4 @@
- # 🚀 CareerPilot — AI-Powered CandidateAcceleration Platform
+ # 🚀 CareerPilot — AI-Powered Candidatem
                  
 <p align="center">
   <img src="logo.png" alt="CareerPilot Logo" width="180" />
